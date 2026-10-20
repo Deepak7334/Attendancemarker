@@ -1,0 +1,16 @@
+{
+    "name": "attendance/system",
+    "description": "Attendance Management System with Google Login",
+    "require": {
+        "php": ">=7.4",
+        "google/apiclient": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Google\\": "vendor/google/apiclient/src/"
+        },
+        "classmap": [
+            "src/aliases.php"
+        ]
+    }
+}

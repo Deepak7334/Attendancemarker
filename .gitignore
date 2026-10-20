@@ -1,0 +1,18 @@
+# Composer dependencies
+/vendor/
+composer.phar
+
+# Logs
+/logs/
+*.log
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Sensitive configuration files
+google-config.php
+
+# Environment / local configs (uncomment if you use .env)
+# .env

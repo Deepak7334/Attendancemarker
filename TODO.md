@@ -1,0 +1,5 @@
+- [x] Update EmployeeController myAttendance to filter by start/end date
+- [x] Add date filter form in my-attendance.php
+- [x] Change check-out redirect in mark-attendance.php to dashboard
+- [x] Insert sample attendance data if none exists for the user
+- [x] Test date filtering and redirect
